@@ -1,0 +1,12 @@
+Card Type Colors:
+Action: #FFD123
+Item: #008400
+Event: #FF3664
+Character: #AC00B1
+Procedure: #00D8DC
+
+Class Colors:
+Safe: #5DF7B4
+Euclid: #C2C0FC
+Keter: #F86D6D
+Thaumiel: #FCD82B
