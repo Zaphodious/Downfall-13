@@ -13,7 +13,7 @@ linkcolor=class,focus,F
 LINK="SCP_ The Downfall of Site 13 Cards.xlsx"
 VISUAL=S, 10, 10
 ;TOPIMAGE
-IMAGE="1-{(TOPIMAGE)}",[TOPIMAGE],0%,{388/-9}%,{72100/643}%,100%,0,P
+IMAGE="1-{(TOPIMAGE)}",[TOPIMAGE],0%,{388/-9}%,{95700/643}%,100%,0,P
 ;Image(size)
 IMAGE=,,0%,0%,100%,100%
 ;FRAME
@@ -61,5 +61,5 @@ FONT=Just Another Hand,7,T,#000000
 ;ART CREDIT
 TEXT="1-{(ART CREDIT)}",[ART CREDIT],{46500/643}%,58%,{27900/643}%,{290/9}%,LEFT,CENTER,-90
 ;Image(size)
-IMAGE=,C:\Users\achyt\Documents\Site13\frames\paperclip.png,{50900/643}%,{40/9}%,30%,100%,0,PN
+IMAGE=,C:\Users\achyt\dev\Downfall-Of-Site-13\frames\CardTemplate_just_border.png,0%,0%,100%,100%,0,N
 ENDVISUAL
