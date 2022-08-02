@@ -1,3 +1,5 @@
 /renders*
 *DS_store
 *.pdf
+*.tmp
+~*
