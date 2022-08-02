@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-1200 -1200 2400 2400"
+   id="svg31"
+   sodipodi:docname="SCP_Foundation_(emblem).svg"
+   inkscape:export-filename="C:\Users\achyt\dev\Downfall-Of-Site-13\icons\SCP_Foundation_(emblem).png"
+   inkscape:export-xdpi="59.978642"
+   inkscape:export-ydpi="59.978642"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.38065916"
+     inkscape:cx="1192.668"
+     inkscape:cy="1115.1709"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs13">
+    <mask
+       id="c">
+      <path
+         d="m-1200-1200h2400v2400h-2400z"
+         fill="#fff"
+         id="path2" />
+      <circle
+         r="925"
+         id="circle4" />
+      <path
+         d="m-306-861 36-185h540l36 185"
+         id="path6" />
+      <path
+         transform="rotate(120)"
+         d="m-306-861 36-185h540l36 185"
+         id="path8" />
+      <path
+         transform="rotate(240)"
+         d="m-306-861 36-185h540l36 185"
+         id="path10" />
+    </mask>
+    <filter
+       inkscape:label="Rough and Glossy"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Crumpled glossy paper effect which can be used for pictures as for objects"
+       style="color-interpolation-filters:sRGB;"
+       id="filter2097"
+       x="-0.00028116037"
+       y="-0.0002501137"
+       width="1.0005766"
+       height="1.0004978">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="7"
+         baseFrequency="0.007462686567164179"
+         seed="55"
+         result="result0"
+         id="feTurbulence2079" />
+      <feDiffuseLighting
+         surfaceScale="4"
+         diffuseConstant="1"
+         kernelUnitLength="1"
+         result="result1"
+         in="result0"
+         id="feDiffuseLighting2083">
+        <feDistantLight
+           azimuth="235"
+           elevation="60"
+           id="feDistantLight2081" />
+      </feDiffuseLighting>
+      <feSpecularLighting
+         in="result0"
+         surfaceScale="3"
+         specularConstant="1"
+         specularExponent="25"
+         kernelUnitLength="1"
+         result="result3"
+         id="feSpecularLighting2087">
+        <feDistantLight
+           azimuth="235"
+           elevation="55"
+           id="feDistantLight2085" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="1"
+         result="result2"
+         id="feComposite2089" />
+      <feComposite
+         in="result2"
+         in2="result3"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         result="result4"
+         id="feComposite2091" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         in="result4"
+         result="fbSourceGraphic"
+         id="feComposite2093" />
+      <feDisplacementMap
+         scale="14.61038961038961"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in2="result0"
+         id="feDisplacementMap2095" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter2097)"
+       d="m -293.67739,-1063.3949 -34.15128,160.24839 -212.78879,118.216 -139.23217,105.08088 -154.9943,194.39963 -86.69173,212.78879 -26.27022,194.39961 -7.88107,173.3835 10.50809,73.5566 -89.31874,65.6755 -42.0324,49.9135 291.59949,514.8963 168.12941,-63.0485 139.23217,89.3187 176.01048,84.0647 225.92385,44.6594 267.9563,-13.1351 223.2969,-68.3026 147.1132,-99.8268 65.6756,-36.7783 152.3672,57.7944 L 1080.2552,273.7594 946.277,155.5434 962.0392,-23.0941 943.65,-183.3425 888.4825,-359.35294 801.7908,-532.7364 l -115.589,-136.60514 -128.724,-112.96195 -157.6214,-94.5728 -70.9296,-31.52426 -36.7783,-165.50235 z"
+       id="path1309" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <g
+       mask="url(#c)"
+       id="g22"
+       style="fill:#ffffff;fill-opacity:1;filter:url(#filter2097)">
+      <circle
+         r="984"
+         id="circle15"
+         style="fill:#ffffff;fill-opacity:1"
+         cx="0"
+         cy="0" />
+      <path
+         id="a"
+         d="m -359,-913 36,-185 h 646 l 36,185"
+         style="fill:#ffffff;fill-opacity:1" />
+      <use
+         transform="rotate(120)"
+         xlink:href="#a"
+         id="use18"
+         style="fill:#ffffff;fill-opacity:1"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         transform="rotate(-120)"
+         xlink:href="#a"
+         id="use20"
+         style="fill:#ffffff;fill-opacity:1"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <path
+       id="b"
+       d="m -40,-752 v 455 h -93.5 L 0,-38 133.5,-297 H 40 v -455"
+       style="fill:#ffffff;fill-opacity:1;filter:url(#filter2097)" />
+    <use
+       transform="rotate(120,1.5137755e-6,-1.5137756e-6)"
+       xlink:href="#b"
+       id="use27"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <use
+       transform="rotate(-120,-1.5137756e-6,1.5137755e-6)"
+       xlink:href="#b"
+       id="use29"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <circle
+       r="590.5"
+       fill="none"
+       stroke="#000"
+       stroke-width="119"
+       id="circle24"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#fbfbfb;stroke-opacity:1;filter:url(#filter2097)"
+       cx="0"
+       cy="0" />
+  </g>
+</svg>
